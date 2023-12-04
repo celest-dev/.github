@@ -1,6 +1,6 @@
 ## Welcome to the Celest Github organization 👋
 
-![Celest-Gradient-Logo (1)](https://github.com/celest-dev/.github/assets/17932473/964bbbdb-e8a5-42d6-b74f-b7a6c1cc131b)
+![Celest-Gradient-Logo](https://github.com/celest-dev/.github/assets/17932473/99dcf7bf-cddf-488d-b916-e94b65960af7)
 
 Celest is the Flutter cloud platform. We enable Flutter and Dart developers to declaratively define their backend infrastructure in Dart.
 
