@@ -7,9 +7,10 @@
 
 Celest is the Flutter cloud platform. We enable Flutter and Dart developers to declaratively define their backend infrastructure in Dart.
 
-You can join our waitlist at [celest.dev](https://celest.dev). To learn more about our values and how we operate, visit our [about us](https://celest.dev/about-us/) page.
+You can try Celest for free at [celest.dev](https://celest.dev) 🚀
 
 ## Connect with us
 
-- Follow our [Twitter](https://twitter.com/Celest_Dev) account.
+- Follow our [X](https://x.com/Celest_Dev) account.
+- Join us on [Discord](https://celest.dev/discord)
 - Email us at contact@celest.dev
