@@ -7,6 +7,4 @@
 
 Celest is the Flutter cloud platform. We enable Flutter and Dart developers to declaratively define their backend infrastructure in Dart.
 
-> [!WARNING]
-> Celest is in the process of being open-sourced. During this process, many of the previously valid links like [celest.dev]() will be
-> unavailable. We expect this process to be completed by the end of April 2025.
+To get started, visit [celest.dev](https://www.celest.dev/docs/get-started).
